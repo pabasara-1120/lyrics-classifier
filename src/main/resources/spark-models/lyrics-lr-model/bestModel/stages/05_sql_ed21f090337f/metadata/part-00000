@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1746553811634,"sparkVersion":"3.5.0","uid":"sql_ed21f090337f","paramMap":{"statement":"SELECT *, stem(filteredWord) as stemmedWord FROM __THIS__"},"defaultParamMap":{}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1746553810501,"sparkVersion":"3.5.0","uid":"sql_ec4cb4a21dc1","paramMap":{"statement":"SELECT *, regexp_replace(trim(lyrics), '[^\\\\w\\\\s]', '') AS clean FROM __THIS__"},"defaultParamMap":{}}
